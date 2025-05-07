@@ -10,7 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/weprint-takkarpress">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
