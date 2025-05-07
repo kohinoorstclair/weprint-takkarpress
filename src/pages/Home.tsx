@@ -30,15 +30,15 @@ const Home: React.FC = () => {
             {/* RIGHT: Placeholder Images Grid */}
             <div className="col-md-6 mt-5 mt-md-0">
               <div className="image-grid">
-                <img src="src\assets\leaflet.png" alt="Business Cards" />
+                <img src="public\assets\leaflet.png" alt="Business Cards" />
                 <img
-                  src="src\assets\bussinessCardsMain small.png"
+                  src="public\assets\bussinessCardsMain small.png"
                   alt="Posters"
                 />
-                <img src="src\assets\flyers.jpeg" alt="Flyers" />
-                <img src="src\assets\posters.jpeg" alt="Brochures" />
-                <img src="src\assets\flex1.jpg" alt="Receipts" />
-                <img src="src\assets\baneers.jpeg" alt="Banners" />
+                <img src="public\assets\flyers.jpeg" alt="Flyers" />
+                <img src="public\assets\posters.jpeg" alt="Brochures" />
+                <img src="public\assets\flex1.jpg" alt="Receipts" />
+                <img src="public\assets\baneers.jpeg" alt="Banners" />
               </div>
             </div>
           </div>
@@ -47,44 +47,44 @@ const Home: React.FC = () => {
       <section className="product-carousel">
         <div className="carousel-track">
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 1" />
+            <img src="public\assets\cards1.jpeg" alt="Product 1" />
             <h4>Business Cards</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\leaflet.png" alt="Product 2" />
+            <img src="public\assets\leaflet.png" alt="Product 2" />
             <h4>Flyers</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 3" />
+            <img src="public\assets\cards1.jpeg" alt="Product 3" />
             <h4>Brochures</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\leaflet.png" alt="Product 4" />
+            <img src="public\assets\leaflet.png" alt="Product 4" />
             <h4>Banners</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 5" />
+            <img src="public\assets\cards1.jpeg" alt="Product 5" />
             <h4>Posters</h4>
           </div>
 
           <div className="carousel-card">
-            <img src="src\assets\leaflet.png" alt="Product 1" />
+            <img src="public\assets\leaflet.png" alt="Product 1" />
             <h4>Business Cards</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 2" />
+            <img src="public\assets\cards1.jpeg" alt="Product 2" />
             <h4>Flyers</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\leaflet.png" alt="Product 3" />
+            <img src="public\assets\leaflet.png" alt="Product 3" />
             <h4>Brochures</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 4" />
+            <img src="public\assets\cards1.jpeg" alt="Product 4" />
             <h4>Banners</h4>
           </div>
           <div className="carousel-card">
-            <img src="src\assets\cards1.jpeg" alt="Product 5" />
+            <img src="public\assets\cards1.jpeg" alt="Product 5" />
             <h4>Posters</h4>
           </div>
         </div>
