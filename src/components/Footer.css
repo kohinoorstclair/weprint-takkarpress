@@ -1,0 +1,40 @@
+/* src/components/Footer.css */
+
+.footer-section {
+    background-color: #007ACC;
+    color: white;
+    padding: 40px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .footer-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #ffffff;
+  }
+  
+  .footer-text {
+    font-size: 0.95rem;
+    color: #e0e0e0;
+  }
+  
+  .footer-link {
+    color: #f9f9f9;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    transition: color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .footer-link:hover {
+    color: #F5A623;
+    transform: translateX(4px);
+  }
+  
+  .footer-copy {
+    font-size: 0.875rem;
+    color: #f0f0f0;
+    margin: 0;
+  }
+  
